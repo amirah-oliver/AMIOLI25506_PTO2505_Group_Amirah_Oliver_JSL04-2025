@@ -167,7 +167,7 @@ updateCounts();
 DARK MODE TOGGLE
 ========================= */
 
-const themeToggle = document.getElementById("themeToggle");
+const themeToggle = document.getElementById("themeToggle"); 
 
 themeToggle.addEventListener("change", () => {
 
