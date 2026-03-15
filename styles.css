@@ -136,7 +136,7 @@ input:checked + .slider:before {
 /* ===============================
    HIDE / SHOW SIDEBAR
 ================================ */
-.hide-sidebar-btn {
+.hide-sidebar-btn { 
   margin-top: 10px;
   padding: 10px;
   border: none;
