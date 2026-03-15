@@ -77,7 +77,7 @@ body {
 /* ===============================
    DARK MODE TOGGLE
 ================================ */
-.theme-toggle {
+.theme-toggle { 
   margin-top: auto;
   display: flex;
   align-items: center;
