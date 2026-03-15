@@ -179,7 +179,7 @@ document.body.classList.toggle("dark-mode");
 SIDEBAR TOGGLE
 ========================= */
 
-const hideSidebarBtn = document.getElementById("hideSidebar");
+const hideSidebarBtn = document.getElementById("hideSidebar"); 
 const showSidebarBtn = document.getElementById("showSidebar");
 
 hideSidebarBtn.addEventListener("click", () => {
